@@ -1,0 +1,11 @@
+.sec1{
+  max-height: 500px;
+  border: 1px solid red;
+}
+.half-section{
+  width: 42%;
+  float: left;
+}
+body{
+  margin: 0%;
+}
