@@ -1,11 +1,80 @@
 .sec1{
-  max-height: 500px;
-  border: 1px solid red;
+  background-image: url("../images/header-bg.png");
+  background-size: 100% 600px;
+  background-repeat: no-repeat;
 }
 .half-section{
-  width: 42%;
+  width: 40%;
   float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+
 }
 body{
   margin: 0%;
+}
+section{
+  height: 600px;
+}
+.name{
+  color:#EC4F8F;
+  font-size: 75px;
+}
+h1{
+  font-size: 40px;
+}
+.hire-me{
+  text-decoration: none;
+  padding: 8px 15px;
+  background-image: linear-gradient(40deg,#ED4B6E,#EC4F8F);
+  border-radius: 5px;
+  color: white;
+  font-weight: 700;
+}
+.sec2{
+  background-image: url("../images/biography-bg.png");
+  background-size: 100% 600px;
+  background-repeat: no-repeat;
+}
+.last-work{
+  background-image: url("../images/latest-work-bg.png");
+  height: 400px;
+  margin-left: 10%;
+}
+img{
+  width: 27%;
+  height: 350px;
+  float: left;
+  margin: 1%;
+}
+.bruce{
+  text-align: center;
+  font-size: 18px;
+}
+.founder{
+  font-size: 12px;
+}
+.founder{
+  color: gray;
+}
+.mail{
+  padding: 10px 20px;
+  background-image: linear-gradient(45deg,#ED4B6E,#EC4F8F);
+  border-radius: 5px;
+  color: white;
+  font-weight: 700;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+h2{
+  font-size: 36px;
+}
+.last-sec{
+  text-align: center;
+}
+.footer-sec{
+  background-image: url("../images/footer-bg.png");
+  height: 250px;
+  background-size: 100% 250px;
+  background-repeat: no-repeat;
 }
